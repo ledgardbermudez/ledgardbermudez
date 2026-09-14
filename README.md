@@ -115,20 +115,6 @@ My work spans **data engineering, AI and software**, with a growing focus on sys
 
 ---
 
-## GitHub Activity
-
 <p align="center">
-  <img
-    src="./assets/metrics/contributions.svg"
-    width="100%"
-    alt="GitHub contribution calendar"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./assets/metrics/activity.svg"
-    width="100%"
-    alt="Coding activity"
-  />
+  <strong>Data • AI • Markets 🧠</strong>
 </p>
